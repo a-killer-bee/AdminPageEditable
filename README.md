@@ -1,5 +1,4 @@
 # AdminPageEditable プラグイン
-AdminPageEditableプラグインです。
 baserCMS専用プラグインです。
 
 ## 固定ページ 管理者編集機能
